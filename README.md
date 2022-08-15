@@ -3,7 +3,9 @@ I am a technologist, software engineer, artist, content creator; an eternal stud
 
 In my career I have taken on a wide range of roles that run the spectrum of software and business: Software Engineer, Web Designer, Software Architect, Data Analyst, Data Engineer, Analytics Engineer, Product Manager, Technical Lead, People Leader, Lean/Agile Coach, Customer Liason etc. Being a life long learner, I have picked up a breadth of knowledge and skills along the way.
 
-On the Software Engineer
+Business and software are locked in a co-dependent relationship, one propelling the other forward at any given point in time. As Marc Andreessen famously wrote, "software is eating the world." Business provides the all your can eat buffet - the means - for it to do so. I am facinated by the software craft, and genuinely respect the people who toil in the art to create solutions that run our world.
+
+I care about creating environments that are high trust and safe that 
 
 Skills: Python, Java, JavaScript, SQL, HTML, CSS
 
