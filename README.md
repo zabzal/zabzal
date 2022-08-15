@@ -1,5 +1,4 @@
-- 👋 🇬🇾 Hi, I’m Zaheer
-- 🇬🇾 
+- 👋 Hi, I’m Zaheer
 - 👀 I’m a technologist, engineer, writer and eternal student. I am interested in a great many things and enjoy learning.
 - 💞️ Please reach out if you would like to connect
 - 📫  [Twitter](https://twitter.com/realzaheerabzal), [Medium](https://medium.com/@zaheerabzal)
