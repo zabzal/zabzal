@@ -8,7 +8,7 @@ I am a technologist, software engineer, artist, content creator; an eternal stud
 ### Skills
 - Software Engineering: Python, Java, JavaScript, SQL, HTML, CSS, Containers (Podman, Buildah, Docker)
 - Data Science/Data Engineering: Pandas, Jupyter Notebooks, Apache Spark, Apache Kafka, Apache Airflow
-- Artist: Krita, Affinity Photo, Affinity Designer
+- Digital Art: Krita, Affinity Photo, Affinity Designer
 
 
 
