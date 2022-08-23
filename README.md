@@ -1,5 +1,5 @@
 # ZAHEER ABZAL
-I am a technologist, software engineer, artist; eternal student. Check out my thoughts on technology and the business of sofware at [Business & Code](medium.com/@zaheerabzal). Also follow me on [Twitter](www.twitter.com/realzaheerabzal) and [Pintrest](http://pinterest.com/zaheerabzal) to chat and see what else I am up to.
+I am a technologist, software engineer, artist; eternal student. Check out my thoughts on technology and the business of software at [Business & Code](medium.com/@zaheerabzal). Also follow me on [Twitter](www.twitter.com/realzaheerabzal) and [Pintrest](http://pinterest.com/zaheerabzal) to chat and see what else I am up to.
 
 ### My Ninja Way
 - I practice lean software product development to nimbly create product customers love.
